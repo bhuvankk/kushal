@@ -65,7 +65,7 @@
     <div class="row">
       <div class="col-md-6">
         <h2 class="h3 mb-3">About Me</h2>
-        <p>Serving Lieutenant Commander from Indian Navy, specialised in Training Design and Management, Meteorology, Data and Operations Analysis.</p>
+        <p>Data Analyst and Meteorologist with excellent technical and leadership skills. Millitary leader with proven track record of leading teams through challenging tasks. Serving as Lt Commander in Indian Navy, Specialised in Training Design and Management, Meteorology, Data and Operations Analysis.</p>
       </div>
       <div class="col-md-5 offset-md-1">
         <div class="row mt-2">
@@ -124,7 +124,7 @@
             <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="500" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
-        <div class="mb-2"><span>C++</span>
+        <div class="mb-2"><span>Machine Learning</span>
           <div class="progress my-1">
             <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
@@ -140,6 +140,7 @@
         <div class="card-body">
           <div class="h5 mb-1">Senior Data Analyst<span class="text-muted h6"> at Indian Naval Meteorological Data Analysis Center, Kochi</span></div>
           <div class="text-muted text-small mb-2">Dec, 2020 - Present</div>
+		  <div><i>Senior Project Manager – Project Panorama - Indigenously designed and developed Marine Forecast and Visualisation System for providing forecast and tactical aid to carry out Naval operations, voyage planning and exercise.</i></div>
           <div><i>Operational Data Analysis and Running Weather Models</i></div>
         </div>
       </div>
