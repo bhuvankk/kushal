@@ -56,7 +56,7 @@
       </div>
       <div class="col-lg-8 col-md-7 text-center text-md-start">
         <h2 class="h1 mt-2" data-aos="fade-left" data-aos-delay="0">Bhuvan</h2>
-        <p data-aos="fade-left" data-aos-delay="100">Data Analyst, Indian Navy</p>
+        <p data-aos="fade-left" data-aos-delay="100">Data Analyst</p>
         <div class="d-print-none" data-aos="fade-left" data-aos-delay="200"><a class="btn btn-light text-dark shadow-sm mt-1 me-1" href="right-resume.pdf" target="_blank">Download CV</a><a class="btn btn-success shadow-sm mt-1" href="#contact">Contact Me</a></div>
       </div>
     </div>
@@ -124,7 +124,7 @@
             <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="500" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
-        <div class="mb-2"><span>C++</span>
+        <div class="mb-2"><span>Machine Learning</span>
           <div class="progress my-1">
             <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
@@ -138,8 +138,9 @@
     <div class="timeline">
       <div class="timeline-card timeline-card-primary card shadow-sm">
         <div class="card-body">
-          <div class="h5 mb-1">Senior Data Analyst<span class="text-muted h6"> at Indian Naval Meteorological Data Analysis Center (INMAC), Kochi</span></div>
+          <div class="h5 mb-1">Senior Data Analyst<span class="text-muted h6"> at Indian Naval Meteorological Data Analysis Center, Kochi</span></div>
           <div class="text-muted text-small mb-2">Dec, 2020 - Present</div>
+		  <div><i>o	Senior Project Manager – Project Panorama - Indigenously designed and developed Marine Forecast and Visualisation System for providing forecast and tactical aid to carry out Naval operations, voyage planning and exercise.</i></div>
           <div><i>Operational Data Analysis and Running Weather Models</i></div>
         </div>
       </div>
@@ -165,24 +166,7 @@
 		  <div><i>Designed and developed unit level web application in PHP and My SQL for accounting and handling of signal communication of entire Western Naval Command at Communication Network Centre, Mumbai.</i></div>
 		</div>
       </div>
-	  
-	  <div class="timeline-card timeline-card-primary card shadow-sm">
-        <div class="card-body">
-          <div class="h5 mb-1">Naval On Job Training<span class="text-muted h6">at Indian Naval Academy</span></div>
-          <div class="text-muted text-small mb-2">Dec, 2012 - Dec, 2013</div>
-          <div><i>Professional Training</i></div>
-		  <div><i>Operational training on different aspects of Naval Warfare</i></div>
-		</div>
     </div>
-	 <div class="timeline-card timeline-card-primary card shadow-sm">
-        <div class="card-body">
-          <div class="h5 mb-1">Systems Engineer<span class="text-muted h6">at Infosys, Mysore and Chennai</span></div>
-          <div class="text-muted text-small mb-2">Nov, 2010 - Nov, 2012</div>
-          <div><i>Part of Maintenance team that worked on stabilisation of Finacle 10.2x version.</i></div>
-		  <div><i>Performed bug fixes identified during unit testing of the version.</i></div>
-		</div>
-    </div>
-	
   </div>
   <hr class="d-print-none"/>
   <div class="page-break"></div>
