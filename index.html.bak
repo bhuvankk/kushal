@@ -68,7 +68,7 @@
       </div>
       <div class="col-lg-8 col-md-7 text-center text-md-start">
         <h2 class="h1 mt-2" data-aos="fade-left" data-aos-delay="0">Bhuvan</h2>
-        <p data-aos="fade-left" data-aos-delay="100">Program Manager | Data Analyst</p>
+        <p data-aos="fade-left" data-aos-delay="100">Project Manager | Data Analyst</p>
         <div class="d-print-none" data-aos="fade-left" data-aos-delay="200"><a class="btn btn-light text-dark shadow-sm mt-1 me-1" href="Lt_Cdr_Bhuvan.pdf" target="_blank">Download CV</a>
 		<a class="btn btn-primary shadow-sm mt-1" href="#Portfolio">Portfolio</a>
 		<a class="btn btn-primary shadow-sm mt-1" href="#contact">Contact Me</a></div>
@@ -79,7 +79,7 @@
     <div class="row">
       <div class="col-md-6">
         <h2 class="h3 mb-3">About Me</h2>
-        <p>Program Manager | Data Analyst |  Aviation Meteorologist</p>
+        <p>Project Manager | Data Analyst |  Aviation Meteorologist</p>
       </div>
       <div class="col-md-5 offset-md-1">
         <div class="row mt-2">
@@ -156,7 +156,7 @@
           <div class="text-muted text-small mb-2">Dec, 2020 - Present</div>
 		  <div><i>Senior Project Manager, Project Panorama - An indigenously designed and developed software for providing 
 					weather forecast and tactical aid to carry out Naval operations, voyage planning and exercise.</i></div>
-          <div><i>Led a team of Meteorologists to carry out Operational Data Analysis and handled runs of Meso-scale weather models for Naval Operations. </i></div>
+          <div><i>Carried out Operational Data Analysis and handled runs of Meso-scale weather models for Naval Operations. </i></div>
         </div>
       </div>
       <div class="timeline-card timeline-card-primary card shadow-sm">
@@ -191,7 +191,7 @@
       <div class="timeline-card timeline-card-success card shadow-sm">
         <div class="card-body">
           <div class="h5 mb-1">Masters in Applied Meteorology <span class="text-muted h6">from CUSAT, Kochi</span></div>
-          <div class="text-muted text-small mb-2">2011 - 2013</div>
+          <div class="text-muted text-small mb-2">2015 - 2016</div>
           <div>....</div>
         </div>
       </div>
@@ -217,31 +217,35 @@
 
 <div class="mySlides">
 <a href="https://spam-mail-detector-api.herokuapp.com/" target="_blank">
-<img src="images/Spamproject.jpg" width="200" height="200"/>
+<img src="images/Spamproject.jpg" width="200" height="200" style="float:left; border: 10px solid white"/>
 </a>
   <q>Machine Learning model to detect if a message is Spam or ham</q>
-  <p>Spam mail detection implementation using Multinomial Naive Bayes model and Hyperparameter tuning using GridSearchCV. End to end implementation and deployment 
-  of the web application created with flask and deployed on the Heroku platform.Project completed as part of INSAID Global Certificate in Data Science and AI program.</p>
-  <a href="https://github.com/bhuvankk/Spam_mail_detector" target="_blank"> <p class="author"> Github repository</p></a>
+  <p style=" text-align: justify;">Spam mail detection implementation using Multinomial Naive Bayes model and Hyperparameter tuning using GridSearchCV. End to end implementation and deployment 
+  of the web application on the Amazon Web Services (AWS) and Heroku platform.Project completed as part of INSAID Global Certificate in Data Science and AI program.</p>
+  </br>
+  <a href="https://github.com/bhuvankk/Spam_mail_detector" target="_blank">  Github repository</a> -
+  <a href="http://ec2-54-160-214-56.compute-1.amazonaws.com:8080/" target="_blank">  AWS deployment</a> -
+   <a href="https://spam-mail-detector-api.herokuapp.com/" target="_blank"> Heroku deployment</a>
   
 </div>
 
 <div class="mySlides">
 <a href="https://docs.google.com/document/d/1SHnPib_fYi6lWmLmSoYZjbB_Nyj6__FP/edit?usp=sharing&ouid=114638301181853450749&rtpof=true&sd=true" target="_blank">
-<img src="images/wrf.jpg" width="200" height="200"/>
+<img src="images/wrf.jpg" width="200" height="200" style="float:left; border: 10px solid white"/>
 </a>
   <q>Forecasting a cyclone track using WRF model output (.nc file)</q>
-   <p>Project completed as part of Numerical Weather Prediction course, School of Naval Oceanology and Meteorology, Kochi. Forecasted tracks of cyclones across the world can be plotted using WRF out file. Further comparsion of model performance on different schemes
-   was also undertaken.</p>
+   <p style=" text-align: justify;">Project completed as part of Numerical Weather Prediction course, School of Naval Oceanology and Meteorology, Kochi. Forecasted tracks of cyclones across the world can be plotted using WRF out file. Further comparsion of model performance on different schemes
+   was undertaken.</p>
   <a href="https://github.com/bhuvankk/Plot-Cyclone-track-from-WRF-output" target="_blank"> <p class="author"> Github repository</p></a>
 </div>
 
 <div class="mySlides">
   <a href="https://github.com/bhuvankk/EDA-on-IPL-dataset" target="_blank">
-<img src="images/IPL.jpg" width="200" height="200"/>
+<img src="images/IPL.jpg" width="200" height="200" style="float:left; border: 10px solid white"/>
 </a>
   <q>Exploratory Data Analysis performed on IPL dataset using Python</q>
-   <p>Exploratory Data Analysis (EDA) carried out on IPL dataset from 2008 - 2018. Project completed as part of INSAID Global Certificate in Data Science and AI program.Data preprocessing and Visualisation carried out using Python packages numpy, pandas, seaborn and matplotlib.</p>
+   <p style=" text-align: justify;">Exploratory Data Analysis (EDA) carried out on IPL dataset from 2008 - 2018. Project completed as part of INSAID Global Certificate in Data Science and AI program.Data preprocessing and Visualisation carried out using Python packages numpy, pandas, seaborn and matplotlib.</p>
+  </br>
   <a href="https://github.com/bhuvankk/EDA-on-IPL-dataset" target="_blank"> <p class="author"> Github repository</p></a>
 
 </div>
