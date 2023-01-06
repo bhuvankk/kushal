@@ -70,7 +70,7 @@
         <h2 class="h1 mt-2" data-aos="fade-left" data-aos-delay="0">Bhuvan</h2>
         <p data-aos="fade-left" data-aos-delay="100">Project Manager | Data Analyst | PMP<sup>®</sup> | CSM<sup>®</sup> | AWS CCP </p>
         <div class="d-print-none" data-aos="fade-left" data-aos-delay="200"><a class="btn btn-light text-dark shadow-sm mt-1 me-1" href="Lt_Cdr_Bhuvan.pdf" target="_blank">Download CV</a>
-		<a class="btn btn-primary shadow-sm mt-1" href="#Portfolio">Github projects</a>
+		<a class="btn btn-primary shadow-sm mt-1" href="#Portfolio">Data Science Projects</a>
 		<a class="btn btn-primary shadow-sm mt-1" href="#contact">Contact Me</a></div>
       </div>
     </div>
